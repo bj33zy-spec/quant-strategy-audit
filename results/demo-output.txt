@@ -1,0 +1,5 @@
+Audit complete. Results saved to: C:\Users\brent\Downloads\quant-strategy-audit\outputs\demo
+Candidates: 30 | Observations: 756 | PBO estimate: 88.6%
+Read: outputs\demo\audit_report.md
+Selection-bias experiment saved to: C:\Users\brent\Downloads\quant-strategy-audit\outputs\demo\selection_bias.csv
+Plot saved to: C:\Users\brent\Downloads\quant-strategy-audit\outputs\demo\selection_bias.png
